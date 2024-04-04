@@ -7,4 +7,4 @@ If I pick a yellow M&M from one bag and a green one from another (but I don't kn
 If I receive an orange and a red M&M, what's the chance the orange one is from the 1994 bag?
 And if I get a tan and a red M&M, how likely is it that the red one is from 1994?
 
-Co-authored-by: Aymen Omar AB Alharm, Chandrika Nayanakanthi Weerasinghe.
+Co-authored-by: Aymen Omar AB Alharm, Chandrika Nayanakanthi Weerasinghe Weerasinghe Mudiyanselage.
